@@ -1,0 +1,17 @@
+#no {
+    background-color: rgb(230, 226, 224);
+    text-align: center;
+    padding: 15px;
+    font-size: 2rem;
+    width: 800px;
+    margin: auto;
+  }
+  #result {
+    background: fixed;
+    background-color: rgb(220, 214, 214);
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  
+  
